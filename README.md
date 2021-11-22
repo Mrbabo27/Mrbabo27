@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrBabo27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, C#, HTML and JavaScript
-- 💞️ I’m looking to collaborate on (nothing at the moment)
+- 👀 I’m interested in security, ai and many other things.
+- 🌱 I’m currently learning Python, C#, HTML and JavaScript.
+- 💞️ I’m looking to collaborate on (nothing at the moment).
 - 📫 How to reach me ...
 
 <!---
